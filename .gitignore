@@ -30,3 +30,4 @@ bin/
 .DS_Store!/users.csv
 /users.csv
 .idea/misc.xml
+.idea/codeStyles/codeStyleConfig.xml
